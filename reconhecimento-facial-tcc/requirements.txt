@@ -1,0 +1,10 @@
+opencv-python
+numpy
+face-recognition
+dlib
+deepface
+retina-face
+scipy
+pandas
+matplotlib
+tensorflow
